@@ -30,4 +30,3 @@ resource "aws_security_group" "instances" {
   }
 
 }
-kill_all_humans()
